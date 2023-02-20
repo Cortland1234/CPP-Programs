@@ -1,0 +1,3 @@
+10000|C++ Programming Language                          |C++            |2014|70.00 |Stroustrup          |Pearson     |
+20000|Deciphering Objected-Oriented Programming with C++|C++ O-O        |2023|45.00 |Kirk                |Packt       |
+30000|Database Systems                                  |Relational DBs |2011|110.00|Coronel, Morris, Rob|Cengage     |

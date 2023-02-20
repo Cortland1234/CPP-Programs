@@ -1,0 +1,8 @@
+F1000|Raiders of the Lost Ark |adventure           |1981|25.00|Spielberg       |Kasdan, Lucas, Kaufman  |Paramount, Lucasfilm     |
+F2000|The Shining             |psycholical horror  |1980|18.00|Kubrick         |King, Kubrick, Johnson  |Warner, Hawk, Peregrine  |
+F3000|Moulin Rouge!           |bizarre musical     |2001|16.00|Luhrmann        |Luhrmann, Pearce        |20th Century Fox, Bazmark|
+F4000|Fargo                   |strange comedy      |1996|20.00|Coen brothers   |Coen brothers           |Polygram, Working Title  |
+F5000|Chinatown               |crime suspense      |1974|18.00|Polanski        |Towne, Polanski         |Paramount, Long Road     |
+F6000|Goodfellas              |crime mafia         |1990|22.00|Scorsese        |Pileggi, Scorsese       |Warner                   |
+F7000|Planet of the Apes      |dystopian drama     |1968|15.00|Schaffner       |Serling, Wilson, Boulle |APJAC, 20th Century  Fox |
+F8000|Inherit the Wind        |historical drama    |1960|12.00|Kramer          |Young, Smith. Lawrence  |Kramer Productions       |
