@@ -1,0 +1,10 @@
+1000|zimbardo|phillip|
+2000|von neumann|john|
+3000|dickens|charles|
+4000|javanbakht|taraneh
+5000|kirk|dorothy|
+6000|yellen|janet|
+7000|truss|liz|
+8000|johnson|boris|
+9000|merkel|angela|
+10000|thatcher|margaret|
