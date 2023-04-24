@@ -1,0 +1,164 @@
+C:\Users\cortl\OneDrive\Desktop\CPP\final>Test
+
+Enter 'L' or 'l' to display all contacts    :
+Enter 'A' or 'a' to add a new contact         :
+Enter 'F' or 'f' to find an existing contact  :
+Enter 'D' or 'd' to delete an existing contact:
+Enter 'S' or 's' to to save all data to a file:
+Enter 'R' or 'r' to to read data from a file  :
+Enter 'X' or 'x' to exit the application      : a
+
+Enter contact's LAST name : diehm
+
+Enter contact's FIRST name  : cortland
+
+Enter phone number as ###-###-#### for contact: 111-111-1111
+
+Enter email address for contact: c@gmail.com
+
+Enter title for contact: Mr.
+
+Enter address for contact: 111 Address Way, Henderson, NV, 89002
+
+Enter 'L' or 'l' to display all contacts    :
+Enter 'A' or 'a' to add a new contact         :
+Enter 'F' or 'f' to find an existing contact  :
+Enter 'D' or 'd' to delete an existing contact:
+Enter 'S' or 's' to to save all data to a file:
+Enter 'R' or 'r' to to read data from a file  :
+Enter 'X' or 'x' to exit the application      : a
+
+Enter contact's LAST name : vargas
+
+Enter contact's FIRST name  : jerrell
+
+Enter phone number as ###-###-#### for contact: 222-222-2222
+
+Enter email address for contact: j@gmail.com
+
+Enter title for contact: Dr.
+
+Enter address for contact: 222 Address Way, Nampa, ID 83686
+
+Enter 'L' or 'l' to display all contacts    :
+Enter 'A' or 'a' to add a new contact         :
+Enter 'F' or 'f' to find an existing contact  :
+Enter 'D' or 'd' to delete an existing contact:
+Enter 'S' or 's' to to save all data to a file:
+Enter 'R' or 'r' to to read data from a file  :
+Enter 'X' or 'x' to exit the application      : s
+
+
+Successfully wrote data to contacts.txt.
+
+Enter 'L' or 'l' to display all contacts    :
+Enter 'A' or 'a' to add a new contact         :
+Enter 'F' or 'f' to find an existing contact  :
+Enter 'D' or 'd' to delete an existing contact:
+Enter 'S' or 's' to to save all data to a file:
+Enter 'R' or 'r' to to read data from a file  :
+Enter 'X' or 'x' to exit the application      : l
+0.
+Last name : diehm
+First name: cortland
+Phone     : 111-111-1111
+Email     : c@gmail.com
+Title     : Mr.
+Address   : 111 Address Way, Henderson, NV, 89002
+1.
+Last name : vargas
+First name: jerrell
+Phone     : 222-222-2222
+Email     : j@gmail.com
+Title     : Dr.
+Address   : 222 Address Way, Nampa, ID 83686
+
+Enter 'L' or 'l' to display all contacts    :
+Enter 'A' or 'a' to add a new contact         :
+Enter 'F' or 'f' to find an existing contact  :
+Enter 'D' or 'd' to delete an existing contact:
+Enter 'S' or 's' to to save all data to a file:
+Enter 'R' or 'r' to to read data from a file  :
+Enter 'X' or 'x' to exit the application      : d
+
+Enter at least the partial LAST name of the contact to delete : v
+
+Enter at least the partial FIRST name of the contact to delete: j
+
+
+0.
+Last name : vargas
+First name: jerrell
+Phone     : 222-222-2222
+Email     : j@gmail.com
+Title     : Dr.
+Address   : 222 Address Way, Nampa, ID 83686
+
+Enter the index of the contact to delete: 0
+
+
+Deleting vargas, jerrell with email j@gmail.com.
+
+
+Model::deleteContact: contactObjEmail = c@gmail.com
+
+
+Model::deleteContact: contactObjEmail = j@gmail.com
+
+
+deleting Contact with j@gmail.com equal to j@gmail.com
+
+Enter 'L' or 'l' to display all contacts    :
+Enter 'A' or 'a' to add a new contact         :
+Enter 'F' or 'f' to find an existing contact  :
+Enter 'D' or 'd' to delete an existing contact:
+Enter 'S' or 's' to to save all data to a file:
+Enter 'R' or 'r' to to read data from a file  :
+Enter 'X' or 'x' to exit the application      : s
+
+
+Successfully wrote data to contacts.txt.
+
+Enter 'L' or 'l' to display all contacts    :
+Enter 'A' or 'a' to add a new contact         :
+Enter 'F' or 'f' to find an existing contact  :
+Enter 'D' or 'd' to delete an existing contact:
+Enter 'S' or 's' to to save all data to a file:
+Enter 'R' or 'r' to to read data from a file  :
+Enter 'X' or 'x' to exit the application      : x
+
+C:\Users\cortl\OneDrive\Desktop\CPP\final>Test
+
+Enter 'L' or 'l' to display all contacts    :
+Enter 'A' or 'a' to add a new contact         :
+Enter 'F' or 'f' to find an existing contact  :
+Enter 'D' or 'd' to delete an existing contact:
+Enter 'S' or 's' to to save all data to a file:
+Enter 'R' or 'r' to to read data from a file  :
+Enter 'X' or 'x' to exit the application      : r
+
+
+Successfully read data from contacts.txt.
+
+Enter 'L' or 'l' to display all contacts    :
+Enter 'A' or 'a' to add a new contact         :
+Enter 'F' or 'f' to find an existing contact  :
+Enter 'D' or 'd' to delete an existing contact:
+Enter 'S' or 's' to to save all data to a file:
+Enter 'R' or 'r' to to read data from a file  :
+Enter 'X' or 'x' to exit the application      : l
+0.
+Last name : diehm
+First name: cortland
+Phone     : 111-111-1111
+Email     : c@gmail.com
+Title     : Mr.
+Address   : 111 Address Way, Henderson, NV, 89002
+
+Enter 'L' or 'l' to display all contacts    :
+Enter 'A' or 'a' to add a new contact         :
+Enter 'F' or 'f' to find an existing contact  :
+Enter 'D' or 'd' to delete an existing contact:
+Enter 'S' or 's' to to save all data to a file:
+Enter 'R' or 'r' to to read data from a file  :
+Enter 'X' or 'x' to exit the application      :
